@@ -11,10 +11,8 @@
 
 | Project | Tech Stack | Live Demo | Key Learnings |
 |---------|------------|-----------|---------------|
-| [To-Do List](todo-list/) | HTML, CSS, JS | [Demo](https://yourlink.com) | DOM Manipulation, Local Storage |
-| [Weather App](weather-app/) | API Fetch, Bootstrap | [Demo](https://yourlink.com) | Async/Await, JSON Parsing |
-| [Portfolio Template](portfolio/) | Flexbox, CSS Grid | [Demo](https://yourlink.com) | Responsive Design |
-| [React Quiz App](quiz-app/) | React Hooks | [Demo](https://yourlink.com) | State Management |
+| [To-Do List](todo-list/) | HTML, CSS, JS  | DOM Manipulation, Local Storage |
+
 
 *(More projects coming soon!)*
 
