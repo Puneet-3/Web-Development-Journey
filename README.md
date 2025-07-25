@@ -7,7 +7,7 @@
 
 | Project | Tech Stack  | Key Learnings |
 |---------|------------ |---------------|
-| [To-Do List](/To-Do-list/) | HTML, CSS, JS | DOM Manipulation, Local Storage |
+| [To-Do List](https://github.com/Puneet-3/Web-Development-Journey/tree/main/To-Do%20List) | HTML, CSS, JS | DOM Manipulation, Local Storage |
 
 
 *(More projects coming soon!)*
