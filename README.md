@@ -7,7 +7,7 @@
 
 | Project | Tech Stack  | Key Learnings |
 |---------|------------ |---------------|
-| [To-Do List](to-do-list/) | HTML, CSS, JS | DOM Manipulation, Local Storage |
+| [To-Do List](/To-Do-list/) | HTML, CSS, JS | DOM Manipulation, Local Storage |
 
 
 *(More projects coming soon!)*
